@@ -1,1 +1,1 @@
-# Radar-Detection-in-CBRS-Band-using-NN-architecture
+# Radar-Detection-in-CBRS-Band-using-NN-architectures
